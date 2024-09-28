@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  display: flex;
+  background-color: rgb(165, 165, 165);
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 300px;
+  min-width: 100px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
